@@ -1,0 +1,1 @@
+# ceph-global-cache-adaptor
